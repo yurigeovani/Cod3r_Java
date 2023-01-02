@@ -4,7 +4,7 @@ public class ProdutoTeste {
 
 	public static void main(String[] args) {
 
-		Produto p1 = new Produto("Notebook", 4999.89);
+		Produto p1 = new Produto("Notebook", 5000.89);
 		
 		var p2 = new Produto();
 		p2.nome = "Caneta Preta";
