@@ -3,7 +3,7 @@ package s5_ClassesEMetodos.a105;
 public class Produto {
 	String nome;
 	double preco;
-	static double desconto = 0.25;
+	static double desconto = 0.15;
 
 	Produto() {
 	}
