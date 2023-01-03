@@ -20,7 +20,7 @@ public class Pessoa {
 	}
 	
 	void apresentar() {
-		System.out.printf("Olah, eu sou o %s e tenho %.3fKg.\n", nome, peso);
+		System.out.printf("Olah, eu sou %s e tenho %.3f Kg.\n", nome, peso);
 	}
 
 }
