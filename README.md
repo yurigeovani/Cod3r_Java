@@ -1,4 +1,4 @@
-# Cod3r-Java
+# Cod3r Java
      Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!
 
 # Alguns dos assuntos abordados:
