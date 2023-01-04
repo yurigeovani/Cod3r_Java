@@ -1,7 +1,6 @@
 package s6_ArraysECollections.a121;
 
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class Exercicio {
 
