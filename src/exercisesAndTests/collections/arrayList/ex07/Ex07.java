@@ -1,26 +1,28 @@
-package exercisesAndTests.collections.arrayList.ex1;
+package exercisesAndTests.collections.arrayList.ex07;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex1 {
+public class Ex07 {
 
 	public static void main(String[] args) {
 
 		/*
-		 * Write a Java program to create a new array list, add some colors (string) and
-		 * print out the collection.
+		 * 7. Write a Java program to search an element in a array list.
 		 */
-
+		
 		List<String> listColors = new ArrayList<>();
-
 		listColors.add("Red");
+		listColors.add("Blue");
 		listColors.add("Green");
-		listColors.add("Orange");
 		listColors.add("White");
 		listColors.add("Black");
-
 		System.out.println(listColors);
+		
+		if(listColors.contains("White"))
+			System.out.println(true);
+		else
+			System.out.println("There is no such element.");
 	}
 
 }

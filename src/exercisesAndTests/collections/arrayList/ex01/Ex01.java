@@ -1,27 +1,26 @@
-package exercisesAndTests.collections.arrayList.ex2;
+package exercisesAndTests.collections.arrayList.ex01;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex2 {
+public class Ex01 {
 
 	public static void main(String[] args) {
 
 		/*
-		 * 2. Write a Java program to iterate through all elements in a array list.
+		 * Write a Java program to create a new array list, add some colors (string) and
+		 * print out the collection.
 		 */
-		
+
 		List<String> listColors = new ArrayList<>();
-		
+
 		listColors.add("Red");
 		listColors.add("Green");
 		listColors.add("Orange");
 		listColors.add("White");
 		listColors.add("Black");
-		
-		for (String color : listColors) {
-			System.out.println(color);
-		}
+
+		System.out.println(listColors);
 	}
 
 }

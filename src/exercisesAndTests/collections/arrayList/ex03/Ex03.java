@@ -1,9 +1,9 @@
-package exercisesAndTests.collections.arrayList.ex3;
+package exercisesAndTests.collections.arrayList.ex03;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex3 {
+public class Ex03 {
 
 	public static void main(String[] args) {
 

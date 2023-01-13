@@ -1,14 +1,14 @@
-package exercisesAndTests.collections.arrayList.ex7;
+package exercisesAndTests.collections.arrayList.ex05;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex7 {
+public class Ex05 {
 
 	public static void main(String[] args) {
 
 		/*
-		 * 7. Write a Java program to search an element in a array list.
+		 * 5. Write a Java program to update specific array element by given element.
 		 */
 		
 		List<String> listColors = new ArrayList<>();
@@ -19,10 +19,11 @@ public class Ex7 {
 		listColors.add("Black");
 		System.out.println(listColors);
 		
-		if(listColors.contains("White"))
-			System.out.println(true);
-		else
-			System.out.println("There is no such element.");
+		listColors.set(3, listColors.get(4));
+		System.out.println(listColors);
+		
+		listColors.set(4, "White");
+		System.out.println(listColors);		
 	}
 
 }
