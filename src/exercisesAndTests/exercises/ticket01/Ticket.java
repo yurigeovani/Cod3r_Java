@@ -1,4 +1,4 @@
-package exercisesAndTests.exercises.ticket;
+package exercisesAndTests.exercises.ticket01;
 
 import java.util.ArrayList;
 import java.util.List;

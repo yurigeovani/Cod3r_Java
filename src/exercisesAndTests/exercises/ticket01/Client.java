@@ -1,4 +1,4 @@
-package exercisesAndTests.exercises.ticket;
+package exercisesAndTests.exercises.ticket01;
 
 public class Client {
 	
