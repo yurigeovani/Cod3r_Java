@@ -16,21 +16,22 @@ public class Desafio {
         civic.acelerar();
         fusca.acelerar();
         fusca.acelerar();
+        fusca.acelerar();
 
-        civic.freiar();
-        civic.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
-        fusca.freiar();
+        civic.frear();
+        civic.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
+        fusca.frear();
         System.out.println("Civic: " + civic);
         System.out.println("Fusca: " + fusca);
     }
