@@ -2,6 +2,7 @@ package s07_OO.heranca.desafio01;
 
 public class Carro {
 
+    final int VELOCIDADE_MAXIMA;
     int velocidadeAtual;
     final int VELOCIDADE_MAXIMA;
     int delta = 5;
