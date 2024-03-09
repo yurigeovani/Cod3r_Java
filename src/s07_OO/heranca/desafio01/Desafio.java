@@ -12,7 +12,7 @@ public class Desafio {
         System.out.println("Civic: " + civic);
         civic.acelerar();
         civic.acelerar();
-<<<<<<< HEAD
+
         civic.acelerar();
         civic.acelerar();
         civic.acelerar();
@@ -22,7 +22,7 @@ public class Desafio {
         civic.acelerar();
         civic.acelerar();
         civic.acelerar();
-=======
+
         fusca.acelerar();
         fusca.acelerar();
         fusca.acelerar();
@@ -41,7 +41,7 @@ public class Desafio {
         fusca.frear();
         fusca.frear();
         fusca.frear();
->>>>>>> 2513ebf43126a7a04a3c1dd344ce10923c443e2a
+
         System.out.println("Civic: " + civic);
 
 

@@ -4,7 +4,6 @@ public class Carro {
 
     final int VELOCIDADE_MAXIMA;
     int velocidadeAtual;
-    final int VELOCIDADE_MAXIMA;
     int delta = 5;
 
     Carro(int velocidadeMaxima) {
