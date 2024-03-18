@@ -1,4 +1,8 @@
-package s07_OO.heranca;
+package s07_OO.heranca.teste;
+
+import s07_OO.heranca.Direcao;
+import s07_OO.heranca.Heroi;
+import s07_OO.heranca.Monstro;
 
 public class Jogo {
 

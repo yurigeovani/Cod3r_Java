@@ -2,7 +2,7 @@ package s07_OO.heranca.desafio01;
 
 public class Civic extends Carro{
 
-    Civic() {
+    public Civic() {
         super(100);
         super.delta = 25;
     }
