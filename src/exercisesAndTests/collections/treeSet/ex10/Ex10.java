@@ -2,7 +2,7 @@ package exercisesAndTests.collections.treeSet.ex10;
 
 import java.util.TreeSet;
 
-public class Ex10 {
+class Ex10 {
 
 	public static void main(String[] args) {
 

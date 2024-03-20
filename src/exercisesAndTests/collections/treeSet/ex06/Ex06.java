@@ -2,7 +2,7 @@ package exercisesAndTests.collections.treeSet.ex06;
 
 import java.util.TreeSet;
 
-public class Ex06 {
+class Ex06 {
 
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) {

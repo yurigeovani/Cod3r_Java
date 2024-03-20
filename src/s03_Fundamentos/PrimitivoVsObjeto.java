@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class PrimitivoVsObjeto {
+class PrimitivoVsObjeto {
 
 	public static void main(String[] args) {
 

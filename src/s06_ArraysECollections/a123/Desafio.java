@@ -3,7 +3,7 @@ package s06_ArraysECollections.a123;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Desafio {
+class Desafio {
 
 	public static void main(String[] args) {
 

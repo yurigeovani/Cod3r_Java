@@ -1,6 +1,6 @@
 package s07_OO.heranca;
 
-public class Monstro extends Jogador{
+class Monstro extends Jogador{
 
     public Monstro(){
         this(0, 0);

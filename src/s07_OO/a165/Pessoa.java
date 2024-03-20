@@ -1,6 +1,6 @@
 package s07_OO.a165;
 
-public class Pessoa {
+class Pessoa {
 
 	private int idade;
 	

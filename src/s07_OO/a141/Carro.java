@@ -1,6 +1,6 @@
 package s07_OO.a141;
 
-public class Carro {
+class Carro {
 
 	final Motor motor;
 	

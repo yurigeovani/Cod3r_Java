@@ -2,7 +2,7 @@ package s07_OO.a142;
 
 import java.util.ArrayList;
 
-public class Compra {
+class Compra {
 
 	String cliente;
 	ArrayList<Item> itens = new ArrayList<>();

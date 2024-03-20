@@ -3,7 +3,7 @@ package s06_ArraysECollections.a134;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Pilha {
+class Pilha {
 
 	public static void main(String[] args) {
 

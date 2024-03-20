@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket01;
 
-public class MySystem {
+class MySystem {
 
 	public static void main(String[] args) {
 		

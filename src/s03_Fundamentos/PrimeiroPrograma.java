@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class PrimeiroPrograma {
+class PrimeiroPrograma {
 
 	public static void main(String[] args) {
 		System.out.println("Primeiro programa Parte #01!");

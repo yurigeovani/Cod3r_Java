@@ -3,7 +3,7 @@ package exercisesAndTests.collections.linkedList;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class Ex04 {
+class Ex04 {
     public static void main(String[] args) {
         
         /* 4. Write a Java program to iterate a linked list in reverse order. */

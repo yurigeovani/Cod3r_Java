@@ -1,6 +1,6 @@
 package s12_Generics.a246;
 
-public class Caixa<T> {
+class Caixa<T> {
 
 	private T coisa;
 

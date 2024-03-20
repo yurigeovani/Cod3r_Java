@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a67;
 
 import java.util.Scanner;
 
-public class DesafioDiaSemana {
+class DesafioDiaSemana {
 
 	public static void main(String[] args) {
 

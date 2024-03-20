@@ -2,7 +2,7 @@ package s03_Fundamentos;
 
 import java.util.Scanner;
 
-public class Console {
+class Console {
 
 	public static void main(String[] args) {
 

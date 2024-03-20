@@ -3,7 +3,7 @@ package s06_ArraysECollections.a131;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lista {
+class Lista {
 
 	public static void main(String[] args) {
 

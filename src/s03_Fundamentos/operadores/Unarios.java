@@ -1,6 +1,6 @@
 package s03_Fundamentos.operadores;
 
-public class Unarios {
+class Unarios {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package s07_OO.a142;
 
-public class CompraTeste {
+class CompraTeste {
 
 	public static void main(String[] args) {
 

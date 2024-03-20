@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a63;
 
-public class DesafioIf {
+class DesafioIf {
 
 	public static void main(String[] args) {
 

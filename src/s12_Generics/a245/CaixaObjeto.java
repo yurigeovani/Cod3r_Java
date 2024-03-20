@@ -1,6 +1,6 @@
 package s12_Generics.a245;
 
-public class CaixaObjeto {
+class CaixaObjeto {
 	private Object coisa;
 	
 	public void guardar(Object coisa) {

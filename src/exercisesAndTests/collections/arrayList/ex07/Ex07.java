@@ -3,7 +3,7 @@ package exercisesAndTests.collections.arrayList.ex07;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex07 {
+class Ex07 {
 
 	public static void main(String[] args) {
 

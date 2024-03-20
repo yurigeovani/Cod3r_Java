@@ -2,7 +2,7 @@ package exercisesAndTests.collections.hashSet;
 
 import java.util.HashSet;
 
-public class Ex01 {
+class Ex01 {
     public static void main(String[] args) {
         
         /* 1. Write a Java program to append the specified element to the end of a hash set. */

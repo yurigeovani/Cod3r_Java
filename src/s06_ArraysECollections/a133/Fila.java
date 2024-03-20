@@ -3,7 +3,7 @@ package s06_ArraysECollections.a133;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Fila {
+class Fila {
 
 	public static void main(String[] args) {
 

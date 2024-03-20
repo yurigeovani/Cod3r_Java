@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.polymorphism.ex03;
 
-public class Ex03 {
+class Ex03 {
 
 	public static void main(String[] args) {
 

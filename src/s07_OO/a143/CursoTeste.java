@@ -1,6 +1,6 @@
 package s07_OO.a143;
 
-public class CursoTeste {
+class CursoTeste {
 
 	public static void main(String[] args) {
 

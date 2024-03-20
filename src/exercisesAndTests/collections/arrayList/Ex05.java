@@ -3,7 +3,7 @@ package exercisesAndTests.collections.arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex05 {
+class Ex05 {
     public static void main(String[] args) {
 
         /* 5. Write a Java program to update an array element by the given element. */

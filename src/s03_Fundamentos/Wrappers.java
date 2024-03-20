@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class Wrappers {
+class Wrappers {
 
 	public static void main(String[] args) {
 		

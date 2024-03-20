@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a62;
 
 import java.util.Scanner;
 
-public class If {
+class If {
 
 	public static void main(String[] args) {
 

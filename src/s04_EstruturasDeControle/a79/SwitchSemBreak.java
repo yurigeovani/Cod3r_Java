@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a79;
 
-public class SwitchSemBreak {
+class SwitchSemBreak {
 
 	public static void main(String[] args) {
 

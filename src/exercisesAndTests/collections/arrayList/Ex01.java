@@ -3,7 +3,7 @@ package exercisesAndTests.collections.arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex01 {
+class Ex01 {
     public static void main(String[] args) {
 
         /* 1. Write a Java program to create an array list, add some colors (strings) 

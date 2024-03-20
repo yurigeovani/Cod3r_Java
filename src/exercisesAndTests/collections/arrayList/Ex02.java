@@ -3,7 +3,7 @@ package exercisesAndTests.collections.arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex02 {
+class Ex02 {
     public static void main(String[] args) {
 
         /* 2. Write a Java program to iterate through all elements in an array list. */

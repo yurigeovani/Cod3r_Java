@@ -2,7 +2,7 @@ package exercisesAndTests.collections.linkedList.ex08;
 
 import java.util.LinkedList;
 
-public class Ex08 {
+class Ex08 {
 
 	public static void main(String[] args) {
 

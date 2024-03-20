@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a70;
 
-public class For1 {
+class For1 {
 
 	public static void main(String[] args) {
 

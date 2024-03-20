@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a72;
 
 import java.util.Scanner;
 
-public class DoWhile {
+class DoWhile {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package s07_OO.a165;
 
-public class PessoaTeste {
+class PessoaTeste {
 
 	public static void main(String[] args) {
 

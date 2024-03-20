@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a65;
 
 import java.util.Scanner;
 
-public class IfElseIf {
+class IfElseIf {
 
 	public static void main(String[] args) {
 

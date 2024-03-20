@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class TiposPrimitivos {
+class TiposPrimitivos {
 
 	public static void main(String[] args) {
 

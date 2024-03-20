@@ -3,7 +3,7 @@ package exercisesAndTests.collections.arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex04 {
+class Ex04 {
     public static void main(String[] args) {
 
         /* 4. Write a Java program to retrieve an element (at a specified index) from a given array list. */

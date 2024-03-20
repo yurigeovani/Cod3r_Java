@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.polymorphism.ex03;
 
-public class Shape {
+abstract class Shape {
 	double roundArea(double area) {
 		return Math.round(area*100)/100.00;
 	}

@@ -3,7 +3,7 @@ package s06_ArraysECollections.a125;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Matriz {
+class Matriz {
 
 	public static void main(String[] args) {
 

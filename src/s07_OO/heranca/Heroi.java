@@ -1,6 +1,6 @@
 package s07_OO.heranca;
 
-public class Heroi extends Jogador{
+class Heroi extends Jogador{
 
     public Heroi(int x, int y){
         super(x,y);

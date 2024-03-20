@@ -2,7 +2,7 @@ package exercisesAndTests.collections.hashSet.ex10;
 
 import java.util.HashSet;
 
-public class Ex10 {
+class Ex10 {
 
 	public static void main(String[] args) {
 

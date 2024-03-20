@@ -2,7 +2,7 @@ package exercisesAndTests.collections.hashSet;
 
 import java.util.HashSet;
 
-public class Ex05 {
+class Ex05 {
     public static void main(String[] args) {
 
         /* 5. Write a Java program to test if a hash set is empty or not. */

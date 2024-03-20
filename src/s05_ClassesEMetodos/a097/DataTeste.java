@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a097;
 
-public class DataTeste {
+class DataTeste {
 
 	public static void main(String[] args) {
 

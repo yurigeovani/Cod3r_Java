@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a77;
 
-public class DesafioFor {
+class DesafioFor {
 
 	public static void main(String[] args) {
 

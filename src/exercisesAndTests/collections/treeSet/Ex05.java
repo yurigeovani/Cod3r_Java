@@ -2,7 +2,7 @@ package exercisesAndTests.collections.treeSet;
 
 import java.util.TreeSet;
 
-public class Ex05 {
+class Ex05 {
     public static void main(String[] args) {
         
         /* 5. Write a Java program to get the first and last elements in a tree set. */

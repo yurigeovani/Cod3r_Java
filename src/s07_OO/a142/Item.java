@@ -1,6 +1,6 @@
 package s07_OO.a142;
 
-public class Item {
+class Item {
 
 	String nome;
 	int quantidade;

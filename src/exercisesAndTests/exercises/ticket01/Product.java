@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket01;
 
-public class Product {
+class Product {
 	int code;
 	String name;
 	double price;

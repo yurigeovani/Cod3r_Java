@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.polymorphism.ex03;
 
-public class Rectangle extends Shape {
+class Rectangle extends Shape {
 	private double length;
 	private double width;
 

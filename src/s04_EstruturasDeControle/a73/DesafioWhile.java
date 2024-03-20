@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a73;
 
 import java.util.Scanner;
 
-public class DesafioWhile {
+class DesafioWhile {
 
 	public static void main(String[] args) {
 

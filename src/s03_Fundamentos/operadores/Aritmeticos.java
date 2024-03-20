@@ -1,6 +1,6 @@
 package s03_Fundamentos.operadores;
 
-public class Aritmeticos {
+class Aritmeticos {
 
 	public static void main(String[] args) {
 

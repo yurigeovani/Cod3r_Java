@@ -1,6 +1,6 @@
 package s07_OO.a144;
 
-public class Produto {
+class Produto {
 
 	String nome;
 	Double preco;

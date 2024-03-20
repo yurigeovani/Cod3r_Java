@@ -2,7 +2,7 @@ package s03_Fundamentos;
 
 import java.util.Date;
 
-public class Import {
+class Import {
 
 	public static void main(String[] args) {
 

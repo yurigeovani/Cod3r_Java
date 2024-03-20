@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a100;
 
-public class Produto {
+class Produto {
 	String nome;
 	double preco;
 	double desconto;

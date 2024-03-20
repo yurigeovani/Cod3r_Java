@@ -1,6 +1,6 @@
 package s07_OO.a166;
 
-public class Comida {
+class Comida {
 	
 	private double peso;
 

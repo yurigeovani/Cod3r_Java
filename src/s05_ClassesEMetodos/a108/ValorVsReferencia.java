@@ -1,8 +1,6 @@
 package s05_ClassesEMetodos.a108;
 
-import s05_ClassesEMetodos.a101.Data;
-
-public class ValorVsReferencia {
+class ValorVsReferencia {
 
 	public static void main(String[] args) {
 

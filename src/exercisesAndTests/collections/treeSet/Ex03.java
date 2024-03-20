@@ -2,7 +2,7 @@ package exercisesAndTests.collections.treeSet;
 
 import java.util.TreeSet;
 
-public class Ex03 {
+class Ex03 {
     public static void main(String[] args) {
         
         /* 3. Write a Java program to add all the elements of a specified tree set to another tree set. */

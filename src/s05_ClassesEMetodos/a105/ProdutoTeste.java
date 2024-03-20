@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a105;
 
-public class ProdutoTeste {
+class ProdutoTeste {
 
 	public static void main(String[] args) {
 

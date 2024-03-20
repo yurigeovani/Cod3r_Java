@@ -3,7 +3,7 @@ package s07_OO.a144;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Compra {
+class Compra {
 	
 	final List<ItemCompra> itens = new ArrayList<>();
 	

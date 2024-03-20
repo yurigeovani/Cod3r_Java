@@ -1,8 +1,6 @@
-package exercisesAndTests.loiane.linkedList.teste;
+package exercisesAndTests.loiane.linkedList;
 
-import exercisesAndTests.loiane.linkedList.ListaEncadeada;
-
-public class ListaEncadeadaTeste {
+class ListaEncadeadaTeste {
 
 	public static void main(String[] args) {
 

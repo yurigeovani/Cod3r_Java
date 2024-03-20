@@ -1,6 +1,6 @@
 package exercisesAndTests.loiane.linkedList;
 
-public class ListaEncadeada<T> {
+class ListaEncadeada<T> {
 
 	private No<T> inicio;
 	private No<T> ultimo;

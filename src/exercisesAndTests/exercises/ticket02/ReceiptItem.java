@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket02;
 
-public class ReceiptItem {
+class ReceiptItem {
 	Product product;
 	int qtt;
 	double subtotal;

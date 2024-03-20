@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.TreeSet;
 
 
-public class Ex02 {
+class Ex02 {
     public static void main(String[] args) {
         
         /* 2. Write a Java program to iterate through all elements in a tree set. */

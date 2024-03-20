@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a64;
 
 import javax.swing.JOptionPane;
 
-public class IfElse {
+class IfElse {
 
 	public static void main(String[] args) {
 

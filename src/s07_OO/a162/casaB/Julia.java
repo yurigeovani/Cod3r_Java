@@ -2,7 +2,7 @@ package s07_OO.a162.casaB;
 
 import s07_OO.a162.casaA.Ana;
 
-public class Julia {
+class Julia {
 
 	
 	void testeAcessos() {

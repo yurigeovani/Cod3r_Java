@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.polymorphism.ex02;
 
-public class Vehicle {
+class Vehicle {
 
 	private double speed;
 	

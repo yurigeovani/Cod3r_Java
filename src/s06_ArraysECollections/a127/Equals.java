@@ -1,6 +1,6 @@
 package s06_ArraysECollections.a127;
 
-public class Equals {
+class Equals {
 
 	public static void main(String[] args) {
 

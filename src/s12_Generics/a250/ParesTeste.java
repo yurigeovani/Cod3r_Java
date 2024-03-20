@@ -1,6 +1,6 @@
 package s12_Generics.a250;
 
-public class ParesTeste {
+class ParesTeste {
 
 	public static void main(String[] args) {
 

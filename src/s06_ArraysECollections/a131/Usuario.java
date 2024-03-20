@@ -2,7 +2,7 @@ package s06_ArraysECollections.a131;
 
 import java.util.Objects;
 
-public class Usuario {
+class Usuario {
 
 	String nome;
 

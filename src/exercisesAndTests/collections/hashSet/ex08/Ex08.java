@@ -3,7 +3,7 @@ package exercisesAndTests.collections.hashSet.ex08;
 import java.util.HashSet;
 import java.util.TreeSet;
 
-public class Ex08 {
+class Ex08 {
 
 	public static void main(String[] args) {
 

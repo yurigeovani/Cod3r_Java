@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class TipoString {
+class TipoString {
 
 	public static void main(String[] args) {
 

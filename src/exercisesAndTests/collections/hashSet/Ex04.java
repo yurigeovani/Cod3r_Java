@@ -2,7 +2,7 @@ package exercisesAndTests.collections.hashSet;
 
 import java.util.HashSet;
 
-public class Ex04 {
+class Ex04 {
     public static void main(String[] args) {
         
         /* 4. Write a Java program to empty an hash set. */

@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a109;
 
-public class PrimeiroTrauma {
+class PrimeiroTrauma {
 
 	int a = 3;
 	public static void main(String[] args) {

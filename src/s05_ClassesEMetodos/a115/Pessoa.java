@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a115;
 
-public class Pessoa {
+class Pessoa {
 
 	String nome;
 	double peso;

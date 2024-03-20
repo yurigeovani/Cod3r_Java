@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket02;
 
-public class SystemStore {
+class SystemStore {
 
 	public static void main(String[] args) {
 

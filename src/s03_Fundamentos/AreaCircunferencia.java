@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class AreaCircunferencia {
+class AreaCircunferencia {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a81;
 
-public class Break {
+class Break {
 
 	public static void main(String[] args) {
 

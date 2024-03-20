@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a097;
 
-public class Data {
+class Data {
 	int dia;
 	int mes;
 	int ano;

@@ -1,6 +1,6 @@
 package s07_OO.a144;
 
-public class ItemCompra {
+class ItemCompra {
 	
 	final Produto produto;
 	final int quantidade;

@@ -1,6 +1,6 @@
 package s07_OO.a141;
 
-public class Motor {
+class Motor {
 	
 	final Carro carro;
 	boolean ligado = false;

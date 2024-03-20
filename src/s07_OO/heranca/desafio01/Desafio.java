@@ -1,9 +1,6 @@
-package s07_OO.heranca.teste;
+package s07_OO.heranca.desafio01;
 
-import s07_OO.heranca.desafio01.Civic;
-import s07_OO.heranca.desafio01.Fusca;
-
-public class Desafio{
+class Desafio{
 
     public static void main (String[] args) {
         Civic civic = new Civic();

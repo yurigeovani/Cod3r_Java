@@ -1,6 +1,6 @@
 package s07_OO.a166;
 
-public class Pessoa {
+class Pessoa {
 
 	private double peso;
 

@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a80;
 
 import java.util.Scanner;
 
-public class SwitchComBreak {
+class SwitchComBreak {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package s07_OO.a166;
 
-public class Jantar {
+class Jantar {
 
 	public static void main(String[] args) {
 

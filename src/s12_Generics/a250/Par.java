@@ -1,6 +1,6 @@
 package s12_Generics.a250;
 
-public class Par<C, V> {
+class Par<C, V> {
 
 	private C chave;
 	private V valor;

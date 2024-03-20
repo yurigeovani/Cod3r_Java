@@ -1,10 +1,6 @@
-package s07_OO.heranca.teste;
+package s07_OO.heranca;
 
-import s07_OO.heranca.Direcao;
-import s07_OO.heranca.Heroi;
-import s07_OO.heranca.Monstro;
-
-public class Jogo {
+class Jogo {
 
     public static void main(String[] args) {
 

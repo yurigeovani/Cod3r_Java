@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class ConversaoNumeroString {
+class ConversaoNumeroString {
 
 	public static void main(String[] args) {
 

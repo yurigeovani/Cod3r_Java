@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket01;
 
-public class TicketItem {
+class TicketItem {
 	
 	Product product = new Product();
 	int quantity;

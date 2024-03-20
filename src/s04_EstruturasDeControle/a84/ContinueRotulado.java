@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a84;
 
-public class ContinueRotulado {
+class ContinueRotulado {
 
 	public static void main(String[] args) {
 

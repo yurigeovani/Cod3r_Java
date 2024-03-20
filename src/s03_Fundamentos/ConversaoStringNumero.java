@@ -2,7 +2,7 @@ package s03_Fundamentos;
 
 import javax.swing.JOptionPane;
 
-public class ConversaoStringNumero {
+class ConversaoStringNumero {
 
 	public static void main(String[] args) {
 

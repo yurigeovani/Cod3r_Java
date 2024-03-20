@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a105;
 
-public class Produto {
+class Produto {
 	String nome;
 	double preco;
 	static double desconto = 0.15;

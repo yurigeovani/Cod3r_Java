@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a82;
 
-public class Continue {
+class Continue {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a69;
 
-public class WhileDeterminado {
+class WhileDeterminado {
 
 	public static void main(String[] args) {
 

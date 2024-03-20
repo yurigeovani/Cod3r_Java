@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a104;
 
-public class AreaCircTeste {
+class AreaCircTeste {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class ConversaoTipoPrimitivoNumerico {
+class ConversaoTipoPrimitivoNumerico {
 
 	public static void main(String[] args) {
 

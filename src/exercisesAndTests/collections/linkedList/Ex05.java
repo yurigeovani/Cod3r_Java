@@ -2,7 +2,7 @@ package exercisesAndTests.collections.linkedList;
 
 import java.util.LinkedList;
 
-public class Ex05 {
+class Ex05 {
     public static void main(String[] args) {
         
         /* 5. Write a Java program to insert the specified element at the specified position in the linked list.*/

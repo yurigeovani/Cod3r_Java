@@ -1,6 +1,6 @@
 package s07_OO.heranca.desafio01;
 
-public class Carro {
+class Carro {
 
     final int VELOCIDADE_MAXIMA;
     int velocidadeAtual;

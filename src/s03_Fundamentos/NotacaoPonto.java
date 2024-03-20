@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class NotacaoPonto {
+class NotacaoPonto {
 
 	public static void main(String[] args) {
 		

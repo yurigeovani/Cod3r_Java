@@ -1,6 +1,6 @@
 package s03_Fundamentos.operadores;
 
-public class Ternario {
+class Ternario {
 
 	public static void main(String[] args) {
 

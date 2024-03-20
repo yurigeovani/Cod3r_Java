@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a114;
 
-public class ValorNulo {
+class ValorNulo {
 
 	public static void main(String[] args) {
 

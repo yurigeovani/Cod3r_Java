@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class Temperatura {
+class Temperatura {
 
 	public static void main(String[] args) {
 	

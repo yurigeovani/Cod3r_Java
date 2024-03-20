@@ -1,5 +1,5 @@
 package s07_OO.heranca;
-public class Jogador {
+class Jogador {
 
     public int vida = 100;
     public int x;

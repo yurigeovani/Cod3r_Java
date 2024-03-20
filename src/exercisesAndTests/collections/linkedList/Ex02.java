@@ -2,7 +2,7 @@ package exercisesAndTests.collections.linkedList;
 
 import java.util.LinkedList;
 
-public class Ex02 {
+class Ex02 {
     public static void main(String[] args) {
 
         /* 2. Write a Java program to iterate through all elements in a linked list.*/

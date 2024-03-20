@@ -2,7 +2,7 @@ package exercisesAndTests.collections.treeSet.ex08;
 
 import java.util.TreeSet;
 
-public class Ex08 {
+class Ex08 {
 
 	public static void main(String[] args) {
 

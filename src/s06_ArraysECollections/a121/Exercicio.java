@@ -2,7 +2,7 @@ package s06_ArraysECollections.a121;
 
 import java.util.Arrays;
 
-public class Exercicio {
+class Exercicio {
 
 	public static void main(String[] args) {
 

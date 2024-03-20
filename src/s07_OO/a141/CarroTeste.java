@@ -1,6 +1,6 @@
 package s07_OO.a141;
 
-public class CarroTeste {
+class CarroTeste {
 
 	public static void main(String[] args) {
 

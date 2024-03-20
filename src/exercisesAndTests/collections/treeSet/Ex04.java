@@ -3,7 +3,7 @@ package exercisesAndTests.collections.treeSet;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-public class Ex04 {
+class Ex04 {
     public static void main(String[] args) {
 
         /*

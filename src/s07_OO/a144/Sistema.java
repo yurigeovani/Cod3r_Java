@@ -1,6 +1,6 @@
 package s07_OO.a144;
 
-public class Sistema {
+class Sistema {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package s07_OO.a162.casaB;
 
 import s07_OO.a162.casaA.Ana; //por estar em outro pacote, é preciso importar.
 
-public class Pedro extends Ana{
+class Pedro extends Ana{
 
 	void testeAcessos() {
 		Ana mae = new Ana();

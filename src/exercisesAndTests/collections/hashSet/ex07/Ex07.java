@@ -3,7 +3,7 @@ package exercisesAndTests.collections.hashSet.ex07;
 import java.util.HashSet;
 //import java.util.Iterator;
 
-public class Ex07 {
+class Ex07 {
 
 	public static void main(String[] args) {
 

@@ -3,7 +3,7 @@ package exercisesAndTests.collections.hashSet;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class Ex02 {
+class Ex02 {
     public static void main(String[] args) {
 
         /* 2. Write a Java program to iterate through all elements in a hash list. */

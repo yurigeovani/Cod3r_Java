@@ -3,7 +3,7 @@ package exercisesAndTests.collections.hashMap.ex01;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Ex01 {
+class Ex01 {
 
 	@SuppressWarnings("rawtypes")
 	public static void main(String[] args) {

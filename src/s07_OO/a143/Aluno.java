@@ -3,7 +3,7 @@ package s07_OO.a143;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Aluno {
+class Aluno {
 
 	final String nome;
 	final List<Curso> cursos = new ArrayList<>();

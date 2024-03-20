@@ -1,6 +1,6 @@
 package s06_ArraysECollections.a122;
 
-public class Foreach {
+class Foreach {
 
 	public static void main(String[] args) {
 

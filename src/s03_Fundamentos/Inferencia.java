@@ -1,6 +1,6 @@
 package s03_Fundamentos;
 
-public class Inferencia {
+class Inferencia {
 
 	public static void main(String[] args) {
 		double a = 4.5; // declaracao e inicializacao

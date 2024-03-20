@@ -1,6 +1,6 @@
 package s04_EstruturasDeControle.a83;
 
-public class BreakRotulado {
+class BreakRotulado {
 
 	public static void main(String[] args) {
 

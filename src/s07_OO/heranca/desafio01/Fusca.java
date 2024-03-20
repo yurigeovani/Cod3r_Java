@@ -1,6 +1,6 @@
 package s07_OO.heranca.desafio01;
 
-public class Fusca extends Carro{
+class Fusca extends Carro{
 
     public Fusca(){
         super(150);

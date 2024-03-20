@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a104;
 
-public class AreaCirc {
+class AreaCirc {
 
 	double raio;
 	static final double PI = 3.14;

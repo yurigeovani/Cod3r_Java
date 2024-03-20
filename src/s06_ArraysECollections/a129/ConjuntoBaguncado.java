@@ -3,7 +3,7 @@ package s06_ArraysECollections.a129;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ConjuntoBaguncado {
+class ConjuntoBaguncado {
 
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {

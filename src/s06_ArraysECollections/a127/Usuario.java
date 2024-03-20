@@ -1,6 +1,6 @@
 package s06_ArraysECollections.a127;
 
-public class Usuario {
+class Usuario {
 
 	String nome;
 	String email;

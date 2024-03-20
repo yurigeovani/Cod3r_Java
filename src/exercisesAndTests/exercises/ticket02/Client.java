@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket02;
 
-public class Client {
+class Client {
 	
 	int id;
 	String name;

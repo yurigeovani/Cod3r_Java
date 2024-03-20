@@ -1,6 +1,6 @@
 package s03_Fundamentos.operadores;
 
-public class DesafioAritmeticos {
+class DesafioAritmeticos {
 
 	public static void main(String[] args) {
 

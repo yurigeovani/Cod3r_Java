@@ -2,7 +2,7 @@ package s03_Fundamentos;
 
 import java.util.Scanner;
 
-public class DesafioConversao {
+class DesafioConversao {
 
 	public static void main(String[] args) {
 

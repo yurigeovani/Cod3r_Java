@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.polymorphism.ex03;
 
-public class Triangle extends Shape{
+class Triangle extends Shape{
 
 	private double base;
 	private double heigth;

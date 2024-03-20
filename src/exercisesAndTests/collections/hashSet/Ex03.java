@@ -2,7 +2,7 @@ package exercisesAndTests.collections.hashSet;
 
 import java.util.HashSet;
 
-public class Ex03 {
+class Ex03 {
     public static void main(String[] args) {
         
         /* 3. Write a Java program to get the number of elements in a hash set. */

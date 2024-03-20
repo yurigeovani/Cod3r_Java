@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a115;
 
-public class Comida {
+class Comida {
 
 	String nome;
 	double peso;

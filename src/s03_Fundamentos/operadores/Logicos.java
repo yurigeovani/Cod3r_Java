@@ -1,6 +1,6 @@
 package s03_Fundamentos.operadores;
 
-public class Logicos {
+class Logicos {
 
 	public static void main(String[] args) {
 

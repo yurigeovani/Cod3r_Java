@@ -1,6 +1,6 @@
 package s03_Fundamentos.operadores;
 
-public class Atribuicao {
+class Atribuicao {
 
 	public static void main(String[] args) {
 

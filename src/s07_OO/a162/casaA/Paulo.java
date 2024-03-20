@@ -1,6 +1,6 @@
 package s07_OO.a162.casaA;
 
-public class Paulo {
+class Paulo {
 	
 	void testeAcessos() {
 		Ana esposa = new Ana();

@@ -1,6 +1,6 @@
 package s12_Generics.a246;
 
-public class CaixaTeste {
+class CaixaTeste {
 
 	public static void main(String[] args) {
 

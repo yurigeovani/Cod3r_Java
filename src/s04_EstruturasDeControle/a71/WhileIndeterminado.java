@@ -2,7 +2,7 @@ package s04_EstruturasDeControle.a71;
 
 import java.util.Scanner;
 
-public class WhileIndeterminado {
+class WhileIndeterminado {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package exercisesAndTests.exercises.ticket01;
 
-public class Client {
+class Client {
 	
 	int code;
 	String name;

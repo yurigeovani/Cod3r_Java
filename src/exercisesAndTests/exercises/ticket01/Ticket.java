@@ -3,7 +3,7 @@ package exercisesAndTests.exercises.ticket01;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ticket {
+class Ticket {
 	List<TicketItem> item = new ArrayList<>();
 	Client client = new Client();
 	

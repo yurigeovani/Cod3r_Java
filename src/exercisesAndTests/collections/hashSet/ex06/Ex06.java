@@ -2,7 +2,7 @@ package exercisesAndTests.collections.hashSet.ex06;
 
 import java.util.HashSet;
 
-public class Ex06 {
+class Ex06 {
 
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package s05_ClassesEMetodos.a115;
 
-public class Jantar {
+class Jantar {
 
 	public static void main(String[] args) {
 
