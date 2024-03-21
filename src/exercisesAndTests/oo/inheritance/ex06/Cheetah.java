@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.inheritance.ex06;
 
-public class Cheetah extends Animal{
+ class Cheetah extends Animal{
 
 	@Override
 	public void move() {
