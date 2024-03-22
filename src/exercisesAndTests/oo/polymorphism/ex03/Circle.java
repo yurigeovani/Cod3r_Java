@@ -1,6 +1,6 @@
 package exercisesAndTests.oo.polymorphism.ex03;
 
-public class Circle extends Shape{
+class Circle extends Shape{
 	
 	private double radius;
 	

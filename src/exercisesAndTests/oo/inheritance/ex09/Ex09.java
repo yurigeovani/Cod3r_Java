@@ -14,10 +14,8 @@ class Ex09 {
 		
 		Truck t2 = new Truck();
 		t2.setMake("BB");
-		t2.setModel("Truck");
 		t2.setYear(1990);
 		t2.setFuelType("Diesel");
-		t2.setFuelEfficiency(30);
 		System.out.println(t2.toString());
 		
 		Car c1 = new Car("CC", 2010, "Gasoline");

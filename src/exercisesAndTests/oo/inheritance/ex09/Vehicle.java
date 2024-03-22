@@ -17,9 +17,6 @@ abstract class Vehicle {
 	public String getModel() {
 		return model;
 	}
-	public void setModel(String model) {
-		this.model = model;
-	}
 	public int getYear() {
 		return year;
 	}
@@ -35,10 +32,7 @@ abstract class Vehicle {
 	public double getFuelEfficiency() {
 		return fuelEfficiency;
 	}
-	public void setFuelEfficiency(double fuelEfficiency) {
-		this.fuelEfficiency = fuelEfficiency;
-	}
-	
+
 	public Vehicle(String make, String model, int year, String fuelType, double fuelEfficiency) {
 		super();
 		this.make = make;
@@ -47,9 +41,13 @@ abstract class Vehicle {
 		this.fuelType = fuelType;
 		this.fuelEfficiency = fuelEfficiency;
 	}
-	public Vehicle() {
+	
+	public Vehicle(String model, double fuelEfficiency) {
 		super();
+		this.model = model;
+		this.fuelEfficiency = fuelEfficiency;
 	}
+	
 	@Override
 	public String toString() {
 		return "Vehicle [make=" + make + ", model=" + model + ", year=" + year + ", fuelType=" + fuelType + ", fuelEfficiency=" + fuelEfficiency + "]";
