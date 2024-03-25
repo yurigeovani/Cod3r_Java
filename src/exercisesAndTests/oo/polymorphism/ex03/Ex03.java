@@ -9,7 +9,8 @@ class Ex03 {
 		 */
 		
 		Circle circle = new Circle(10);
-		System.out.println(circle.roundArea(12.335));
+		System.out.println(circle.roundArea(1234.12341234));
+		//System.out.println(circle.roundArea(12.335));
 		System.out.println(circle.calculateArea());
 		
 		Rectangle rectangle = new Rectangle(10, 15);

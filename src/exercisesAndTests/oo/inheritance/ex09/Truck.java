@@ -2,16 +2,16 @@ package exercisesAndTests.oo.inheritance.ex09;
 
 class Truck extends Vehicle{
 	
-	private static String model = "Truck";
-	private static double  fuelEfficiency = 40;
+	private static final String MODEL = "Truck";
+	private static final double  FUEL_EFFICIENCY = 40;
 
 	public Truck() {
-		super(model, fuelEfficiency);
+		super(MODEL, FUEL_EFFICIENCY);
 		// TODO Auto-generated constructor stub
 	}
 
 	public Truck(String make, int year, String fuelType) {
-		super(make, model, year, fuelType, fuelEfficiency);
+		super(make, MODEL, year, fuelType, FUEL_EFFICIENCY);
 		// TODO Auto-generated constructor stub
 	}
 

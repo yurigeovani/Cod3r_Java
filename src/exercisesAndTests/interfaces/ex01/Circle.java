@@ -1,25 +1,26 @@
-package exercisesAndTests.oo.polymorphism.ex03;
+package exercisesAndTests.interfaces.ex01;
 
-class Circle extends Shape{
-	
+class Circle implements Shape{
+
 	private double radius;
-	
 	public double getRadius() {
 		return radius;
 	}
-
 	public void setRadius(double radius) {
 		this.radius = radius;
 	}
-
+	
+	public Circle() {
+		super();
+	}
 	public Circle(double radius) {
 		super();
 		this.radius = radius;
 	}
-	
+
 	@Override
-	public double calculateArea() {
-		return roundArea(((Math.pow(getRadius(), 2))*Math.PI));
-		//return Math.pow(getRadius(), 2)*Math.PI;
+	public double getArea() {
+		return (Math.pow(getRadius(), 2))*Math.PI;
 	}
+
 }

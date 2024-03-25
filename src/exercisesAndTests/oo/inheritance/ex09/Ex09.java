@@ -23,6 +23,5 @@ class Ex09 {
 		
 		Motorcycle m1 = new Motorcycle("MM", 2019, "Electric");
 		System.out.println(m1.toString());
-
 	}
 }
