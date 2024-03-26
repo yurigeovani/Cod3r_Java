@@ -1,4 +1,4 @@
-package s07_OO.heranca;
+package s07_OO.a154;
 
 class Heroi extends Jogador{
 

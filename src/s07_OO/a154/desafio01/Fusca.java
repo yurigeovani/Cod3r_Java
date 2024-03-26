@@ -1,4 +1,4 @@
-package s07_OO.heranca.desafio01;
+package s07_OO.a154.desafio01;
 
 class Fusca extends Carro{
 
