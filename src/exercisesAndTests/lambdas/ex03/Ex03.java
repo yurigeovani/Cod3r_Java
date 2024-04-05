@@ -1,6 +1,7 @@
 package exercisesAndTests.lambdas.ex03;
 
-import java.util.function.Function;
+import java.util.Arrays;
+import java.util.List;
 
 class Ex03 {
 
@@ -10,16 +11,13 @@ class Ex03 {
 		 * 3. Write a Java program to implement a lambda expression to convert a list of strings to uppercase and lowercase.
 		 * */
 		
-		Function<String, String> toUpper = t -> t.toUpperCase(); 
-		Function<String, String> toLower = t -> t.toLowerCase();
+		Convert toUpper = new ToUpper();
 		
-		String lower = "this is a lowcase phrase!";
-		String upper = "THIS IS A UPPERCASE PHRASE!";
+		List<String> down = Arrays.asList("maria", "PEDRO", "jOAo");
 		
-		lower = toUpper.apply(lower);
-		upper = toLower.apply(upper);
+		System.out.println(down);
+
 		
-		System.out.println(lower);
-		System.out.println(upper);
+		System.out.println(down);
 	}
 }

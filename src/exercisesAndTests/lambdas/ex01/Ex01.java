@@ -1,15 +1,19 @@
 package exercisesAndTests.lambdas.ex01;
 
+import java.util.function.BinaryOperator;
+
 class Ex01 {
 
 	public static void main(String[] args) {
 
 		/*
-		 * 1. Write a Java program to implement a lambda expression to find the sum of two integers.*/
+		 * 1. Write a Java program to implement a lambda expression to find the sum of two integers.
+		 * */
 		
-		SumCalc calc = (a,b) -> a+b;
+		BinaryOperator<Integer> sum = (a, b) -> a+b;
 		
-		System.out.println(calc.run(23, 22));
+		System.out.println(sum.apply(2,7));
+		System.out.println(sum.apply(22,-71));
 	}
 
 }
