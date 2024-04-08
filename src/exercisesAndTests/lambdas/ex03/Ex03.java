@@ -14,12 +14,18 @@ class Ex03 {
 		Convert toUpper = new ToUpper();
 		Convert toLower = new ToLower(); 
 		
-		List<String> list = Arrays.asList("maria", "PEDRO", "jOAo");
+		List<String> list = Arrays.asList("maria", "PEDRO", "jOÃo", "Yuri", "Thalyta", "Luma");
 
 		toUpper.run(list);
 		System.out.println(list);
 
 		toLower.run(list);
+		System.out.println(list);
+		
+		list.replaceAll(t -> t.toUpperCase());
+		System.out.println(list);
+
+		list.replaceAll(t -> t.toLowerCase());
 		System.out.println(list);
 	}
 }
