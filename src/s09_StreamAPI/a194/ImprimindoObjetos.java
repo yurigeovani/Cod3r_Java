@@ -1,4 +1,4 @@
-package s09_Lambdas.a194;
+package s09_StreamAPI.a194;
 
 import java.util.Arrays;
 import java.util.Iterator;
