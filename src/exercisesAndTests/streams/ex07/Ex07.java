@@ -34,8 +34,30 @@ class Ex07 {
 		System.out.println("Max: " + maxNumber2);
 		System.out.println("Min: " + minNumber2);
 		
+		System.out.println("\n\nTeste");
 		
+		int n1 = 2;
+		int n2 = 4;
+		int n3 = 6;
+		int aux = 0;
 		
+		if(n3>n2) {
+			aux = n3;
+			n3 = n2;
+			n2 = aux;
+		}
+		if(n2>n1) {
+			aux = n2;
+			n2 = n1;
+			n1 = aux;
+		}
+		if(n3>n2) {
+			aux = n3;
+			n3 = n2;
+			n2 = aux;
+		}
+		
+		System.out.println(n1 + " " +  n2 + " " + n3);
 	}
 
 }
