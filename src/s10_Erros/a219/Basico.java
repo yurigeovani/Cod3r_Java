@@ -1,5 +1,6 @@
 package s10_Erros.a219;
 
+
 class Basico {
 
 	public static void main(String[] args) {
