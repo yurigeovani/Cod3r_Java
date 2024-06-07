@@ -1,0 +1,10 @@
+* Significa pôr os métodos/atributos dentro de uma cápsula, protegido, privando seus acessos.
+* Tipos de modifications de acesso:
+    1. Private: Atributos/métodos privados somente são acessíveis dentro da própria classe.
+    2. Public: Atributos/métodos públicos são acessíveis de qualquer lugar do sistema.
+    3. Package: Atributos/métodos com modificador package só é acessível dentro do mesmo pacote. Qualquer atribuído/método sem modificador de acesso, por default é atribuído o package.
+    4. Protected: Depende da herança. É possível acessar um atributo/método em outro pacote, desde que seja herdado.  
+            
+    💡 Níveis de encapsulamento, do mais privado ao mais público:
+            Private > Package > Protected > Public.
+        Package os mesmos acessos que o Private mas acrescido de outros. O Protected os mesmos acessos que o Package mas acrescido de outros. O Public tem os mesmos acessos do Protected mas acrescidos de outros.

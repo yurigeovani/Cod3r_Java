@@ -1,0 +1,25 @@
+* Como identificar o melhor reuso de código?
+
+💡Dica: 
+    Composição:
+        ... tem um(a)...
+        Carro TEM UM motor.
+        Carro TÊM portas.
+        Casa TEM UMA cozinha.
+    
+    Herança:
+        ... é um(a)...
+        Civic É UM carro.
+        Gato É UM mamífero.
+        Maçã É UMA fruta.
+    
+
+    1. Uma boa prática é priorizar sempre a composição à herança.
+    2. Os métodos/atributos são gerados a partir da classe “mãe” (super classe, a mais genérica).
+    3. Todos os descendentes da superclasse terão atribuídas as mesmas características das classes superiores.
+    4. A herança para as subclasses são configuradas de acordo com os modificadores de acesso (se private, package, etc…)
+
+
+* Hierarquia sem herança
+    1. Nem toda hierarquia gera herança:
+        1. Ex: Um militar não é um soldado, que não é o mesmo de um general, que não é o mesmo de um cabo.

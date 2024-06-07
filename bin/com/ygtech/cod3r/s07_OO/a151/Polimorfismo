@@ -1,0 +1,7 @@
+1. Estático:
+    - Quando se tem métodos de mesmo nome mas com assinaturas diferentes, é chamado de sobrecarga. Ou seja: Um polimorfismo estático também é conhecido como sobrecarga.
+    - É chamado de estático pelo fato de o mesmo método ter sido escrito “manualmente” na classe, não acontece de forma dinâmica.
+
+2. Dinâmico:
+    - Para utilizar polimorfismo dinâmico é necessário de herança.
+    - É possível criar uma variável do tipo mais genérico e atribuir qualquer tipo que herda deste tipo mais genérico, podendo, com o tempo, assumir outras formas.
